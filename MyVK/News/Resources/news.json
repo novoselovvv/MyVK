@@ -1,0 +1,31 @@
+{
+    "news" : [
+        {
+            "imageHeader" : "JohnTownerWilliams",
+            "headerLabel" : "John Towner Williams",
+            "newsTextLabel" : "John Towner Williams (born February 8, 1932) is an American composer, conductor, and pianist. With a career spanning over six decades, he has composed some of the most popular, recognizable, and critically acclaimed film scores in cinematic history, including those of the Star Wars series, Jaws, Close Encounters of the Third Kind, Superman, E.T. the Extra-Terrestrial, the Indiana Jones series, the first two Home Alone films, Hook, the first two Jurassic Park films, Schindler's List, and the first three Harry Potter films.",
+            "imageNews" : ["JohnTownerWilliams", "jtw2", "jtw3"],
+            "countLike" : 35
+        },
+        {
+            "imageHeader" : "JohnRonaldReuelTolkien",
+            "headerLabel" : "John Ronald Reuel Tolkien",
+            "newsTextLabel" : "Finally (well, almost), you need to set the hugging vertical priorities for the name label and bio label. Select the nameLabel in the Size inspector and scroll down until you see Content Hugging Priority. Horizontal and Vertical will both be set to 251 by default. Change the name label’s Vertical priority to 253.",
+            "imageNews" : ["JohnRonaldReuelTolkien", "jrrt2"],
+            "countLike" : 115
+        },
+        {
+            "imageHeader" : "Keanu480",
+            "headerLabel" : "Keanu Charles Reeves",
+            "newsTextLabel" : "Finally (well, almost), you need to set the hugging vertical priorities for the name label and bio label. Select the nameLabel in the Size inspector and scroll down until you see Content Hugging Priority. Horizontal and Vertical will both be set to 251 by default. Change the name label’s Vertical priority to 253.",
+            "imageNews" : ["Keanu480"],
+            "countLike" : 799
+        },
+        {
+            "imageHeader" : "appleisider",
+            "headerLabel" : "Michael Kirk Douglas",
+            "newsTextLabel" : "Finally (well, almost), you need to set the hugging vertical priorities for the name label and bio label. Select the nameLabel in the Size inspector and scroll down until you see Content Hugging Priority. Horizontal and Vertical will both be set to 251 by default. Change the name label’s Vertical priority to 253.",
+            "imageNews" : ["appleisider"],
+            "countLike" : 9
+        }]
+}
