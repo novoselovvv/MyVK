@@ -55,7 +55,7 @@ import UIKit
                 button.append(i as! UIButton)
             }
         }
-        let index = button.index(of: sender)
+        let index = button.firstIndex(of: sender)
         link?.scrollTable(index!)
     }
     
