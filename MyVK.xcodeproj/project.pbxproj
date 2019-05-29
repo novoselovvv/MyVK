@@ -32,6 +32,7 @@
 		3BD40FC421FB2FED005049BE /* NewFreindViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BD40FC321FB2FED005049BE /* NewFreindViewController.swift */; };
 		3BDA25AB21EF4D810033BAA9 /* GroupImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BDA25AA21EF4D810033BAA9 /* GroupImageView.swift */; };
 		3BE4EFFE21ED219900FAED21 /* FriendsImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BE4EFFD21ED219900FAED21 /* FriendsImageView.swift */; };
+		3BF2DF58229F0073003ED433 /* Account.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BF2DF57229F0073003ED433 /* Account.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -62,6 +63,7 @@
 		3BD40FC321FB2FED005049BE /* NewFreindViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewFreindViewController.swift; sourceTree = "<group>"; };
 		3BDA25AA21EF4D810033BAA9 /* GroupImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GroupImageView.swift; sourceTree = "<group>"; };
 		3BE4EFFD21ED219900FAED21 /* FriendsImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FriendsImageView.swift; sourceTree = "<group>"; };
+		3BF2DF57229F0073003ED433 /* Account.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Account.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -113,6 +115,7 @@
 				3B51828221C6AC22001F8C1F /* Assets.xcassets */,
 				3B51828421C6AC22001F8C1F /* LaunchScreen.storyboard */,
 				3B51828721C6AC22001F8C1F /* Info.plist */,
+				3BF2DF57229F0073003ED433 /* Account.swift */,
 			);
 			path = MyVK;
 			sourceTree = "<group>";
@@ -294,6 +297,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3B6D4F9021E67AE9000326B9 /* OtherGroupTableViewCell.swift in Sources */,
+				3BF2DF58229F0073003ED433 /* Account.swift in Sources */,
 				3B2535512236D9D9009ED30F /* NewsCollectionViewCell.swift in Sources */,
 				3B6DF622220C7A8600D48EE4 /* Group.swift in Sources */,
 				3BDA25AB21EF4D810033BAA9 /* GroupImageView.swift in Sources */,
